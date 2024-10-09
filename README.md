@@ -1,4 +1,4 @@
-![workflow badge](https://github.com/CCColda/REPOSITORYse-lab/actions/workflows/maven.yml/badge.svg)
+![workflow badge](https://github.com/CCColda/se-lab/actions/workflows/maven.yml/badge.svg)
 
 # SE Spaceship
 
